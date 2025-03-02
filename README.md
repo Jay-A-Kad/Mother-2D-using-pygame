@@ -17,27 +17,26 @@
  ├── README.md  
 
 2. Core Mechanics & Features
-###### Responsive Controls
-Linear movement and platforming with tight jump physics with 60 FPS for a polished experience.
-NPCs & enemies react based on the player's choices.
-Multi-branch dialogue system for story-rich encounters.
 
-Visuals & Animation
-Custom pixel art with eerie environmental storytelling from itch.io customized using LibreSprite
+-->Linear movement and platforming with tight jump physics with 60 FPS for a polished experience.
+-->NPCs & enemies react based on the player's choices.
+-->Multi-branch dialogue system for story-rich encounters.
 
-Mini-Boss Battles
-Each mini-boss has unique attack patterns and weaknesses.
+Visuals & Animation:
+-->Custom pixel art with eerie environmental storytelling from itch.io customized using LibreSprite
+
+Mini-Boss Battles:
+-->Each mini-boss has unique attack patterns and weaknesses.
 
 3. Technical Setup
 
-Engine & Frameworks
+Engine & Frameworks:
+-->Pygame for game rendering with multi-branch dialogue system.
+-->State machine for AI behavior.
 
-Pygame for game rendering with multi-branch dialogue system.
-State machine for AI behavior.
-
-Narrative & Progression
-The player unravels a cryptic story through dialogue.
-Multiple endings based on player decisions.
+Narrative & Progression:
+-->The player unravels a cryptic story through dialogue.
+-->Multiple endings based on player decisions.
 
 
 
