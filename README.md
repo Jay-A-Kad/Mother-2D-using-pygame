@@ -29,20 +29,27 @@
 -->NPCs & enemies react based on the player's choices.
 -->Multi-branch dialogue system for story-rich encounters.
 
-![Game Screenshot](game_screenshots/gameplay_1.png)
-![Game Screenshot](game_screenshots/gameplay_2.png)
+<div align="center">
+    <img src="game_screenshots/gameplay_1.png" width="400">
+    <img src="game_screenshots/gameplay_2.png" width="400">
+</div>
+
 
 Visuals & Animation:
 -->Custom pixel art with eerie environmental storytelling from itch.io customized using LibreSprite
 
-![Game Screenshot](game_screenshots/game_scene_1.png)
-![Game Screenshot](game_screenshots/game_scene_2.png)
+<div align="center">
+    <img src="game_screenshots/game_scene_1.png" width="400"><img src="game_screenshots/game_scene_2.png" width="400">
+</div>
+
 
 Mini-Boss Battles:
 -->Each mini-boss has unique attack patterns and weaknesses.
 
-![Game Screenshot](game_screenshots/gameplay_3.png)
-![Game Screenshot](game_screenshots/gameplay_4.png)
+<div align="center">
+    <img src="game_screenshots/gameplay_3.png" width="400">
+    <img src="game_screenshots/gameplay_4.png" width="400">
+</div>
 
 3. Technical Setup
 
@@ -54,8 +61,11 @@ Narrative & Progression:
 -->The player unravels a cryptic story through dialogue.
 -->Multiple endings based on player decisions.
 
-![Game Screenshot](game_screenshots/game_final.png)
-![Game Screenshot](game_screenshots/game_final_1.png)
+<div align="center">
+    <img src="game_screenshots/game_final.png" width="400">
+    <img src="game_screenshots/game_final_1.png" width="400">
+</div>
+
 
 
 
