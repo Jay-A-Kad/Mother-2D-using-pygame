@@ -1,0 +1,4 @@
+Translation issue:
+	Sequence <scene-00-audio> at , audio track 1: Effect <Internal Channel Volume Stereo> on Clip <mother-scene-01.wav> not translated.
+Translation issue:
+	Sequence <scene-00-audio> at , audio track 2: Effect <Internal Channel Volume Stereo> on Clip <mother-scene-01.wav> not translated.
