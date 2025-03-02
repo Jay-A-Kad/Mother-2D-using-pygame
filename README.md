@@ -2,9 +2,12 @@
 
 ##### Mother is a 2D horror platformer that blends story-driven dialogue, atmospheric pixel art, and responsive controls into a haunting experience. Players assume the role of a Vile human journeying through an underworld filled with mini-bosses and peculiar NPCs, each encounter revealed through a dynamic conversation engine. Custom-made pixel art, a smooth 60 FPS architecture, and state-driven interactions create a fluid, immersive gameplay loop. As the player struggles to reunite with their mother, every step offers narrative depth and tension, encouraging longer, more engaged play sessions.
 
+<div align="center">
+    <img src="game_screenshots/game_menu.png" width="500">
+    <img src="game_screenshots/game_scene_3.gif" width="500">
+</div>
 
-<img src="game_screenshots/game_menu.png" width="400">
-![Game Screenshot](game_screenshots/game_scene_3.gif)
+
 
 1. Project Structure
 
