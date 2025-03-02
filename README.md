@@ -4,7 +4,7 @@
 
 <div align="center">
     <img src="game_screenshots/game_menu.png" width="500">
-    <img src="game_screenshots/game_scene_3.gif" width="500">
+    <img src="https://github.com/Jay-A-Kad/Mother-2D-using-pygame/blob/master/game_screenshots/game_scene_3.gif?raw=true" width="500">
 </div>
 
 
